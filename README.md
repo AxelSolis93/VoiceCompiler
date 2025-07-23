@@ -5,10 +5,10 @@ Compilador para personas con discapacidad visual.
 Instalación: 
 
 - Instalar las librerías necesarias
-    ``` py
+    ``` sh
     pip install -r requirements.txt
     ```
 - Ejecutar main.py
-  ``` py
+  ``` sh
     python main.py
   ```
